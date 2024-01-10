@@ -1,0 +1,112 @@
+
+.main{
+   display: flex;
+}
+
+header{
+   background-color: rgb(97, 97, 222);
+   height: 100px;
+   width: 700px;
+   text-align: center;
+   font-weight: bold;
+   font-size: 20px;
+   
+  
+}
+div.A2{
+   width: 450px;
+   height: 30px;
+   background-color: rgb(74, 74, 147);
+   text-align: left;
+   margin-left: 20px;
+   padding-bottom: 20px;
+   color: rgba(96, 96, 109, 0.999);
+  
+   
+}
+
+main{
+   background-color: yellow;
+   width: 500px;
+   height: 300px;
+   
+   font-size: 20px;
+}
+.B2{
+   font-weight: bold;
+}
+
+section.B3{
+   background-color: rgb(255, 140, 0);
+   width: 480px;
+   height: 100px;
+   margin-top: 5px;
+   margin-left: 10px;
+   margin-right: 10px;
+   color:rgb(161, 157, 157); 
+}
+
+section.B4{
+   background-color: rgb(255, 128, 0);
+   width: 480px;
+   height: 150px;
+   margin-top: 5px;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   font-size: 20px;
+   font-weight: bold;
+
+}
+article.B5{
+   background-color: rgba(0, 183, 255, 0.419);
+   width: 450px;
+   height: 30px;
+   margin-top: 5px;
+   margin-left: 10px;
+   color:rgba(213, 214, 214, 0.419) ;
+}
+article.B6{
+   background-color: rgba(0, 183, 255, 0.419);
+   width: 450px;
+   height: 30px;
+   margin-top: 5px;
+   margin-left: 10px;
+   color:rgba(238, 244, 248, 0.419) ;
+}
+footer.C1{
+   background-color: forestgreen;
+ height: 50px;
+ width: 700px;
+ text-align: center;
+ font-weight: bolder; 
+ font-size: 20px;
+}
+.D1{
+   background-color: brown;
+   height: 300px;
+   width: 200px;
+   text-align: center;
+  font-weight: bold;
+   display: inline-block;
+   font-size: 20px;
+}
+.D3{
+   background-color: rgb(93, 56, 127);
+   height: 100px;
+   width: 150px;
+   margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  color: rgb(117, 113, 118);
+   
+   
+}
+.D4{
+   background-color: rgb(93, 56, 127);
+   height: 100px;
+   width: 150px;
+   margin-left: 10px;
+   color: rgb(117, 113, 118);
+ 
+}
